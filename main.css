@@ -87,7 +87,7 @@ main{
 }
 /* to give the aside some height for its border */
 aside{
-    width: 360px;
+    width: 345px;
     float: right;
      background-color: goldenrod;
     color: white;
